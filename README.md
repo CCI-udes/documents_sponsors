@@ -1,6 +1,6 @@
 # 📁 Dossier Commandites & Partenariats - C3I
 
-Bienvenue dans le répertoire de gestion des commandites du C3I ! Ce dépôt contient tous les outils nécessaires pour contacter des entreprises, négocier des partenariats et financer la compétition **H-É26 : Accessoire Intelligent**.
+Bienvenue dans le répertoire de gestion des commandites du C3I ! Ce dépôt contient tous les outils nécessaires pour contacter des entreprises, négocier des partenariats et financer la compétition **Automne 2026 Règle PCB**.
 
 ## 📂 Contenu du dépôt
 
@@ -93,4 +93,4 @@ Voici quand et comment utiliser chaque modèle de courriel disponible dans le do
 2. **Signature :** Chaque courriel **doit** inclure le bloc de signature avec les coordonnées de Jacob (Président) en bas, comme indiqué dans les gabarits. Cela ajoute de la crédibilité.
 3. **Transparence :** Si une entreprise pose une question sur les finances ou la logistique à laquelle vous ne pouvez pas répondre, mettez Jacob en CC (`Jacob.Turcotte@USherbrooke.ca`) et dites au partenaire qu'il prendra le relais.
 
-Bonne campagne de financement à tous ! 🚀
+Bonne campagne de financement à tous et un gros merci!
